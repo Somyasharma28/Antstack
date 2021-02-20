@@ -1,0 +1,25 @@
+.App .applyCoupon {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    top: 50px;
+}
+
+.App .applyCoupon .applyCouponCard {
+    width: fit-content;
+    padding: 10px;
+    height: fit-content;
+
+}
+
+.App .applyCoupon .error {
+    color: red;
+}
+
+.App .applyCoupon .form-control {
+    width: fit-content;
+    display: inline;
+}

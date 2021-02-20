@@ -1,0 +1,11 @@
+.mainHeader .mainLinks a {
+    color: white;
+}
+
+.mainHeader .mainLinks a:hover {
+    color: lightgray;
+}
+
+.App .navbar  {
+    justify-content: space-between;
+}
